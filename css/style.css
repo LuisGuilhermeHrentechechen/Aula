@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(196, 193, 193, 0.836);
+    font-family: 'Times New Roman', Times, serif;  
+}
+h1{
+    background-color: rgb(123, 210, 250);
+    color:mintcream;
+    text-align: center;
+    font-size: 28px;
+}
+h2{
+    color: royalblue;
+}
+h3{
+    color: rgb(5, 41, 70);
+}
+ul{
+    color: darkslateblue);
+}
